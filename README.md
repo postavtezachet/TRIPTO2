@@ -26,13 +26,13 @@ Sprott, Thunder Force, Galaga. Существует множество игр в
 ### 2.1. Интерфейс пользователя
 
 Стартовое окно
-![Main Window](image/Main_window.png)
+![Main Window](image/Start_Window.png)
 
 Игровое окно
-![Scan Window](image/Scaning_window.png)
+![Scan Window](image/Game_Window.png)
 
 Окно проигрыша
-![Inf Window](image/Information_window.png)
+![Inf Window](image/Game_over.png)
 
 
 ### 2.2. Классификация пользователей
