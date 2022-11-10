@@ -66,6 +66,7 @@
 ![Scan Window](image/Game_screen.png)
 
 Окно проигрыша
+
 ![Inf Window](image/Game_over.png)
 
 ## 8 Диаграмма компонентов
