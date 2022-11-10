@@ -24,13 +24,17 @@
 ## 5 Диаграммы активности
 
 Старт игры
+
 ![Start game](act_diagr/Start_Game.png)
 
 Перемещение
+
 ![Move](act_diagr/Move.png)
 
 Выстрел
+
 ![Shoot](act_diagr/Shoot.png)
 
 Конец игры
+
 ![Game over](act_diagr/Game_over.png)
