@@ -60,12 +60,15 @@
 ![State diagram](image/State_dig.png)
 
 Стартовое окно
+
 ![Main Window](image/Start_Window.png)
 
 Игровое окно
+
 ![Scan Window](image/Game_Window.png)
 
 Окно проигрыша
+
 ![Inf Window](image/Game_over.png)
 
 ## 8 Диаграмма компонентов
