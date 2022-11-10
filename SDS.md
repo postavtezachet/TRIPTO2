@@ -38,3 +38,32 @@
 Конец игры
 
 ![Game over](act_diagr/Game_over.png)
+
+## 6 Диаграммы последовательностей
+
+Перемещение и стрельба
+
+![Move and shoot](posled_diagr/Move_and_shoot.png)
+
+Новая волна
+
+![New wave](posled_diagr/New_wave.png)
+
+Конец игры
+
+![Game over 2](posled_diagr/Game_over.png)
+
+## 7 Диаграммы состояния
+
+Диаграмма состояния
+
+![State diagram](image/State_dig.png)
+
+Стартовое окно
+![Main Window](image/Start_Window.png)
+
+Игровое окно
+![Scan Window](image/Game_Window.png)
+
+Окно проигрыша
+![Inf Window](image/Game_over.png)
