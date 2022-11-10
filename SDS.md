@@ -60,10 +60,10 @@
 ![State diagram](image/State_dig.png)
 
 Стартовое окно
-![Main Window](image/Start_Window.png)
+![Main Window](image/Start_Game_screenshot.png)
 
 Игровое окно
-![Scan Window](image/Game_Window.png)
+![Scan Window](image/Game_screen.png)
 
 Окно проигрыша
 ![Inf Window](image/Game_over.png)
