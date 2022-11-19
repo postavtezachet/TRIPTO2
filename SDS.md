@@ -20,7 +20,7 @@ Linux, Windows, Mac Os
 
 ## 2 Диаграмма классов
 
-![Diagram_class][image/class_diagram.png]
+![Diagram_class](image/class_diagram.png)
 
 ## 3 Use case
 
@@ -46,15 +46,23 @@ Linux, Windows, Mac Os
 
 Перемещение
 
-![Move](act_diagr/Move.png)
+<p align="center">
+  <img src="act_diagr/Move.png" />
+</p>
 
 Выстрел
 
-![Shoot](act_diagr/Shoot.png)
+<p align="center">
+  <img src="act_diagr/Shoot.png" />
+</p>
+
 
 Конец игры
 
-![Game over](act_diagr/Game_over1.png)
+<p align="center">
+  <img src="act_diagr/Game_over1.png" />
+</p>
+
 
 ## 6 Диаграммы последовательностей
 
