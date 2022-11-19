@@ -20,7 +20,7 @@ Linux, Windows, Mac Os
 
 ## 2 Диаграмма классов
 
-
+![Diagram_class][image/class_diagram.png]
 
 ## 3 Use case
 
@@ -52,7 +52,7 @@ Linux, Windows, Mac Os
 
 Конец игры
 
-![Game over](act_diagr/Game_over.png)
+![Game over](act_diagr/Game_over1.png)
 
 ## 6 Диаграммы последовательностей
 
@@ -82,7 +82,7 @@ Linux, Windows, Mac Os
 
 Окно проигрыша
 
-![Inf Window](image/Game_over.png)
+![Inf Window](image/Game_over_screen.png)
 
 ## 8 Диаграмма компонентов
 
