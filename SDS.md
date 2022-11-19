@@ -41,7 +41,7 @@ Linux, Windows, Mac Os
 Старт игры
 
 <p align="center">
-  <img src="http://act_diagr/Start_Game.png" />
+  <img src="act_diagr/Start_Game.png" />
 </p>
 
 Перемещение
