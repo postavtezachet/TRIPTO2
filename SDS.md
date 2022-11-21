@@ -76,7 +76,7 @@ Linux, Windows, Mac Os
 
 Конец игры
 
-![Game over 2](posled_diagr/Game_over2.png)
+![Game over 2](posled_diagr/Game_over.png)
 
 ## 7 Диаграммы состояния
 
